@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project NetProbeX aims to create a user-friendly Wireshark data analysis tool that facilitates a comprehensive understanding of Wireshark functionalities and proficient network data analysis. This tool enables users to capture network data, conduct thorough data analysis, and present insights through an intuitive graphical user interface (GUI). Developed primarily in Python, this project enhances members' expertise in network analysis.
+Project NetProbeX aims to create a user-friendly Wireshark data analysis tool that facilitates a comprehensive understanding of Wireshark functionalities and proficient network data analysis. This tool enables users to capture network data, conduct thorough data analysis, and present insights through an intuitive graphical user interface (GUI). Developed primarily in Python, this project enhances members' expertise in network analysis. For more information go to the NetProbeX powerpoint
 
 ## Features
 
