@@ -32,7 +32,7 @@ Project NetProbeX aims to create a user-friendly Wireshark data analysis tool th
 2. **Install Dependencies**:
     Ensure you have the required dependencies installed. You can use `pip` to install them:
     ```sh
-    pip install kivy PySide6 pyqtgraph scapy
+    pip install -r requirements.txt
     ```
 
 3. **Setup Wireshark Path**:
